@@ -1,10 +1,11 @@
 package main
 
 import (
-	"./src"
 	"flag"
 	"fmt"
 	"os"
+
+	"github.com/LukaSikic/subzy/src"
 )
 
 func main() {
